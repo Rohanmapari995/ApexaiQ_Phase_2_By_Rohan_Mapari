@@ -20,30 +20,6 @@ Zabbix can monitor:
 
 ---
 
-## 📑 Table of Contents
-
-* [What is Zabbix?](#what-is-zabbix)
-* [Key Information](#key-information)
-* [What Does Zabbix Monitor?](#what-does-zabbix-monitor)
-* [Zabbix Architecture](#zabbix-architecture)
-* [Major Components](#major-components)
-* [Important Zabbix Concepts](#important-zabbix-concepts)
-* [How Zabbix Works](#how-zabbix-works)
-* [Monitoring Methods](#monitoring-methods)
-* [Alerts and Notifications](#alerts-and-notifications)
-* [Dashboards and Visualization](#dashboards-and-visualization)
-* [Network Discovery](#network-discovery)
-* [Zabbix API](#zabbix-api)
-* [Zabbix in DevOps](#zabbix-in-devops)
-* [Advantages](#advantages)
-* [Challenges](#challenges)
-* [Zabbix vs Dynatrace](#zabbix-vs-dynatrace)
-* [Use Cases](#use-cases)
-* [Important Terms](#important-terms)
-* [Learning Path](#learning-path)
-* [Useful Resources](#useful-resources)
-* [Conclusion](#conclusion)
-
 ---
 
 # What is Zabbix?
