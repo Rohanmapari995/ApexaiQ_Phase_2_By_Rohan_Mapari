@@ -25,33 +25,6 @@ It provides end-to-end visibility into:
 
 ---
 
-# 📚 Table of Contents
-
-1. [What is Dynatrace?](#what-is-dynatrace)
-2. [Why Dynatrace is Needed](#why-dynatrace-is-needed)
-3. [Monitoring vs Observability](#monitoring-vs-observability)
-4. [What Dynatrace Monitors](#what-dynatrace-monitors)
-5. [Dynatrace Architecture](#dynatrace-architecture)
-6. [OneAgent](#oneagent)
-7. [PurePath](#purepath)
-8. [Smartscape](#smartscape)
-9. [Grail](#grail)
-10. [Dynatrace Intelligence](#dynatrace-intelligence)
-11. [Logs, Metrics and Traces](#logs-metrics-and-traces)
-12. [Real User Monitoring](#real-user-monitoring-rum)
-13. [Synthetic Monitoring](#synthetic-monitoring)
-14. [Dynatrace and DevOps](#dynatrace-and-devops)
-15. [Dynatrace and Kubernetes](#dynatrace-and-kubernetes)
-16. [Dynatrace and OpenTelemetry](#dynatrace-and-opentelemetry)
-17. [Dynatrace vs Zabbix](#dynatrace-vs-zabbix)
-18. [Dynatrace vs Splunk](#dynatrace-vs-splunk)
-19. [Dynatrace Use Cases](#dynatrace-use-cases)
-20. [Advantages](#advantages)
-21. [Challenges](#challenges)
-22. [Who Uses Dynatrace?](#who-uses-dynatrace)
-23. [Important Dynatrace Terms](#important-dynatrace-terms)
-24. [Interview Definition](#interview-definition)
-
 ---
 
 # 🔎 What is Dynatrace?
